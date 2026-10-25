@@ -1,0 +1,28 @@
+Andaith showcase — rights and attribution
+
+No open-source license is granted for Andaith by this presentation. Rights not explicitly granted remain with their respective holders.
+
+The page, diagram, and demonstration presentation were prepared with Codex assistance. Claude Code assisted with the application implementation as described in the case study.
+
+The diagram is original vector artwork. Screenshots and video show an animated illustration based on verified synthetic execution. They are not a live application interface or a recording of Telegram. No stock images, third-party logos, music, web fonts, or application binaries are distributed. System fonts are requested from the viewer’s device and are not bundled.
+
+Go, SQLite, Telegram, Claude Code, Codex, GitHub, and MCP are referenced descriptively. This presentation implies no affiliation or endorsement.
+
+The private execution harness uses application dependencies, including the TOML parser, MCP Go SDK, and modernc SQLite driver. Their source, binaries, and license texts are not redistributed in this static package. An eventual source or binary release needs its own dependency and licensing review.
+
+Every identity, task, event, and security advisory in the demonstration is fictional. The advisory is not a report of a real vulnerability.
+
+Synthetic narration
+
+The voice-over is synthesized with Kokoro-82M, using the built-in af_sarah voice through the local text2audio project (pykokoro 0.8.4, CUDA, fp32). It is not the project owner’s recorded or cloned voice. First-person statements read the owner’s account as described in the case study.
+
+The Kokoro model card and the timestamped ONNX distribution identify their model license as Apache-2.0. Sarah is listed in the accompanying voice inventory. No separate restriction specific to af_sarah was found in the reviewed model and voice documentation. This package distributes the generated narration only, not model weights, voice embeddings, or the synthesis software.
+
+Documentation reviewed on 25 October 2026:
+https://huggingface.co/hexgrad/Kokoro-82M
+https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md
+https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX-timestamped
+
+This revised animation and narration require a new content and listening approval. No publication is authorized by generating this candidate.
+
+The creator explicitly approved publication of the contact address shown on the page and video. It is the sole allowed personal contact identifier in this candidate.

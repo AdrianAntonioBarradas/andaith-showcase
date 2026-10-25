@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00:00.600 --> 00:00:07.432
+Meet Andaith. A personal scheduler that connects planned blocks, reminders, and check-ins.
+
+00:00:08.032 --> 00:00:15.208
+It runs on a home server and sends reminders through Telegram. I built it for my own use.
+
+00:00:16.808 --> 00:00:22.933
+I wanted a clearer connection between what I planned and what I actually recorded.
+
+00:00:23.533 --> 00:00:33.333
+But asking for more input was not always helpful. Some moments need a check-in. Others only need a reminder.
+
+00:00:34.933 --> 00:00:40.558
+Let’s follow Alex, a fictional person working on a project called Atlas.
+
+00:00:41.158 --> 00:00:49.733
+First, Alex plans a block to prepare an example. That becomes a scheduled block with a start time and duration.
+
+00:00:51.333 --> 00:01:00.083
+When the block begins, Andaith sends a reminder. Alex replies with an intention: prepare a minimal example.
+
+00:01:00.683 --> 00:01:08.783
+At the end, Alex records the result. The original plan and the reported activity remain separate.
+
+00:01:10.383 --> 00:01:16.808
+If Alex does not respond to another block, Andaith records that no check-in was received.
+
+00:01:17.408 --> 00:01:24.083
+That does not mean the activity never happened. It means there is no response recorded.
+
+00:01:25.683 --> 00:01:32.258
+External agent routines can also prepare contextual digests and send them through Andaith.
+
+00:01:32.858 --> 00:01:41.983
+Here, a fictional event illustrates that connection. The agent gathers information; Andaith handles the notification.
+
+00:01:43.583 --> 00:01:50.108
+I’m exploring integrations that make sense for this project, while continuing to learn from using it.
+
+00:01:50.708 --> 00:01:58.898
+Interested in trying Andaith? Let’s talk. Have a similar challenge or an idea? I’d love to hear about it.
